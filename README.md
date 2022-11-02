@@ -12,7 +12,7 @@ MEGA’s core is end-to-end encrypted cloud storage and communication. In the fu
 ```
 import requests
 import datetime
-import mega.py
+import mega
 import colored
 ```
 ## 🎥 Preview 
